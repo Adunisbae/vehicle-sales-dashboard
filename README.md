@@ -8,7 +8,7 @@ A JavaFX desktop application that visualizes vehicle sales data through interact
 
 ## Screenshots
 
-(Screenshots/Dashboard.png)
+![Vehicle Sales Dashboard](Screenshots/Dashboard.png)
 
 ## Features
 
