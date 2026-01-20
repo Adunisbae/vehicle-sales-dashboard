@@ -1,0 +1,758 @@
+[
+  {
+    "Year": 2016,
+    "QTR": "1",
+    "Region": "America",
+    "Vehicle": "Elise",
+    "Quantity": 25
+  },
+  {
+    "Year": 2016,
+    "QTR": "1",
+    "Region": "America",
+    "Vehicle": "Evora",
+    "Quantity": 5
+  },
+  {
+    "Year": 2016,
+    "QTR": "1",
+    "Region": "America",
+    "Vehicle": "Exige",
+    "Quantity": 5
+  },
+  {
+    "Year": 2016,
+    "QTR": "1",
+    "Region": "Asia",
+    "Vehicle": "Elise",
+    "Quantity": 52
+  },
+  {
+    "Year": 2016,
+    "QTR": "1",
+    "Region": "Asia",
+    "Vehicle": "Evora",
+    "Quantity": 35
+  },
+  {
+    "Year": 2016,
+    "QTR": "1",
+    "Region": "Asia",
+    "Vehicle": "Exige",
+    "Quantity": 23
+  },
+  {
+    "Year": 2016,
+    "QTR": "1",
+    "Region": "Europe",
+    "Vehicle": "Elise",
+    "Quantity": 80
+  },
+  {
+    "Year": 2016,
+    "QTR": "1",
+    "Region": "Europe",
+    "Vehicle": "Evora",
+    "Quantity": 35
+  },
+  {
+    "Year": 2016,
+    "QTR": "1",
+    "Region": "Europe",
+    "Vehicle": "Exige",
+    "Quantity": 50
+  },
+  {
+    "Year": 2016,
+    "QTR": "2",
+    "Region": "America",
+    "Vehicle": "Elise",
+    "Quantity": 32
+  },
+  {
+    "Year": 2016,
+    "QTR": "2",
+    "Region": "America",
+    "Vehicle": "Evora",
+    "Quantity": 9
+  },
+  {
+    "Year": 2016,
+    "QTR": "2",
+    "Region": "America",
+    "Vehicle": "Exige",
+    "Quantity": 7
+  },
+  {
+    "Year": 2016,
+    "QTR": "2",
+    "Region": "Asia",
+    "Vehicle": "Elise",
+    "Quantity": 53
+  },
+  {
+    "Year": 2016,
+    "QTR": "2",
+    "Region": "Asia",
+    "Vehicle": "Evora",
+    "Quantity": 127
+  },
+  {
+    "Year": 2016,
+    "QTR": "2",
+    "Region": "Asia",
+    "Vehicle": "Exige",
+    "Quantity": 20
+  },
+  {
+    "Year": 2016,
+    "QTR": "2",
+    "Region": "Europe",
+    "Vehicle": "Elise",
+    "Quantity": 82
+  },
+  {
+    "Year": 2016,
+    "QTR": "2",
+    "Region": "Europe",
+    "Vehicle": "Evora",
+    "Quantity": 47
+  },
+  {
+    "Year": 2016,
+    "QTR": "2",
+    "Region": "Europe",
+    "Vehicle": "Exige",
+    "Quantity": 45
+  },
+  {
+    "Year": 2016,
+    "QTR": "3",
+    "Region": "America",
+    "Vehicle": "Elise",
+    "Quantity": 62
+  },
+  {
+    "Year": 2016,
+    "QTR": "3",
+    "Region": "America",
+    "Vehicle": "Evora",
+    "Quantity": 13
+  },
+  {
+    "Year": 2016,
+    "QTR": "3",
+    "Region": "America",
+    "Vehicle": "Exige",
+    "Quantity": 3
+  },
+  {
+    "Year": 2016,
+    "QTR": "3",
+    "Region": "Asia",
+    "Vehicle": "Elise",
+    "Quantity": 48
+  },
+  {
+    "Year": 2016,
+    "QTR": "3",
+    "Region": "Asia",
+    "Vehicle": "Evora",
+    "Quantity": 120
+  },
+  {
+    "Year": 2016,
+    "QTR": "3",
+    "Region": "Asia",
+    "Vehicle": "Exige",
+    "Quantity": 17
+  },
+  {
+    "Year": 2016,
+    "QTR": "3",
+    "Region": "Europe",
+    "Vehicle": "Elise",
+    "Quantity": 107
+  },
+  {
+    "Year": 2016,
+    "QTR": "3",
+    "Region": "Europe",
+    "Vehicle": "Evora",
+    "Quantity": 42
+  },
+  {
+    "Year": 2016,
+    "QTR": "3",
+    "Region": "Europe",
+    "Vehicle": "Exige",
+    "Quantity": 67
+  },
+  {
+    "Year": 2016,
+    "QTR": "4",
+    "Region": "America",
+    "Vehicle": "Elise",
+    "Quantity": 9
+  },
+  {
+    "Year": 2016,
+    "QTR": "4",
+    "Region": "America",
+    "Vehicle": "Evora",
+    "Quantity": 7
+  },
+  {
+    "Year": 2016,
+    "QTR": "4",
+    "Region": "America",
+    "Vehicle": "Exige",
+    "Quantity": 2
+  },
+  {
+    "Year": 2016,
+    "QTR": "4",
+    "Region": "Asia",
+    "Vehicle": "Elise",
+    "Quantity": 57
+  },
+  {
+    "Year": 2016,
+    "QTR": "4",
+    "Region": "Asia",
+    "Vehicle": "Evora",
+    "Quantity": 92
+  },
+  {
+    "Year": 2016,
+    "QTR": "4",
+    "Region": "Asia",
+    "Vehicle": "Exige",
+    "Quantity": 25
+  },
+  {
+    "Year": 2016,
+    "QTR": "4",
+    "Region": "Europe",
+    "Vehicle": "Elise",
+    "Quantity": 92
+  },
+  {
+    "Year": 2016,
+    "QTR": "4",
+    "Region": "Europe",
+    "Vehicle": "Evora",
+    "Quantity": 23
+  },
+  {
+    "Year": 2016,
+    "QTR": "4",
+    "Region": "Europe",
+    "Vehicle": "Exige",
+    "Quantity": 52
+  },
+  {
+    "Year": 2017,
+    "QTR": "1",
+    "Region": "America",
+    "Vehicle": "Elise",
+    "Quantity": 35
+  },
+  {
+    "Year": 2017,
+    "QTR": "1",
+    "Region": "America",
+    "Vehicle": "Evora",
+    "Quantity": 17
+  },
+  {
+    "Year": 2017,
+    "QTR": "1",
+    "Region": "America",
+    "Vehicle": "Exige",
+    "Quantity": 2
+  },
+  {
+    "Year": 2017,
+    "QTR": "1",
+    "Region": "Asia",
+    "Vehicle": "Elise",
+    "Quantity": 43
+  },
+  {
+    "Year": 2017,
+    "QTR": "1",
+    "Region": "Asia",
+    "Vehicle": "Evora",
+    "Quantity": 102
+  },
+  {
+    "Year": 2017,
+    "QTR": "1",
+    "Region": "Asia",
+    "Vehicle": "Exige",
+    "Quantity": 28
+  },
+  {
+    "Year": 2017,
+    "QTR": "1",
+    "Region": "Europe",
+    "Vehicle": "Elise",
+    "Quantity": 78
+  },
+  {
+    "Year": 2017,
+    "QTR": "1",
+    "Region": "Europe",
+    "Vehicle": "Evora",
+    "Quantity": 38
+  },
+  {
+    "Year": 2017,
+    "QTR": "1",
+    "Region": "Europe",
+    "Vehicle": "Exige",
+    "Quantity": 23
+  },
+  {
+    "Year": 2017,
+    "QTR": "2",
+    "Region": "America",
+    "Vehicle": "Elise",
+    "Quantity": 43
+  },
+  {
+    "Year": 2017,
+    "QTR": "2",
+    "Region": "America",
+    "Vehicle": "Evora",
+    "Quantity": 18
+  },
+  {
+    "Year": 2017,
+    "QTR": "2",
+    "Region": "America",
+    "Vehicle": "Exige",
+    "Quantity": 1
+  },
+  {
+    "Year": 2017,
+    "QTR": "2",
+    "Region": "Asia",
+    "Vehicle": "Elise",
+    "Quantity": 38
+  },
+  {
+    "Year": 2017,
+    "QTR": "2",
+    "Region": "Asia",
+    "Vehicle": "Evora",
+    "Quantity": 92
+  },
+  {
+    "Year": 2017,
+    "QTR": "2",
+    "Region": "Asia",
+    "Vehicle": "Exige",
+    "Quantity": 72
+  },
+  {
+    "Year": 2017,
+    "QTR": "2",
+    "Region": "Europe",
+    "Vehicle": "Elise",
+    "Quantity": 85
+  },
+  {
+    "Year": 2017,
+    "QTR": "2",
+    "Region": "Europe",
+    "Vehicle": "Evora",
+    "Quantity": 32
+  },
+  {
+    "Year": 2017,
+    "QTR": "2",
+    "Region": "Europe",
+    "Vehicle": "Exige",
+    "Quantity": 43
+  },
+  {
+    "Year": 2017,
+    "QTR": "3",
+    "Region": "America",
+    "Vehicle": "Elise",
+    "Quantity": 63
+  },
+  {
+    "Year": 2017,
+    "QTR": "3",
+    "Region": "America",
+    "Vehicle": "Evora",
+    "Quantity": 23
+  },
+  {
+    "Year": 2017,
+    "QTR": "3",
+    "Region": "America",
+    "Vehicle": "Exige",
+    "Quantity": 5
+  },
+  {
+    "Year": 2017,
+    "QTR": "3",
+    "Region": "Asia",
+    "Vehicle": "Elise",
+    "Quantity": 33
+  },
+  {
+    "Year": 2017,
+    "QTR": "3",
+    "Region": "Asia",
+    "Vehicle": "Evora",
+    "Quantity": 87
+  },
+  {
+    "Year": 2017,
+    "QTR": "3",
+    "Region": "Asia",
+    "Vehicle": "Exige",
+    "Quantity": 95
+  },
+  {
+    "Year": 2017,
+    "QTR": "3",
+    "Region": "Europe",
+    "Vehicle": "Elise",
+    "Quantity": 98
+  },
+  {
+    "Year": 2017,
+    "QTR": "3",
+    "Region": "Europe",
+    "Vehicle": "Evora",
+    "Quantity": 45
+  },
+  {
+    "Year": 2017,
+    "QTR": "3",
+    "Region": "Europe",
+    "Vehicle": "Exige",
+    "Quantity": 44
+  },
+  {
+    "Year": 2017,
+    "QTR": "4",
+    "Region": "America",
+    "Vehicle": "Elise",
+    "Quantity": 13
+  },
+  {
+    "Year": 2017,
+    "QTR": "4",
+    "Region": "America",
+    "Vehicle": "Evora",
+    "Quantity": 9
+  },
+  {
+    "Year": 2017,
+    "QTR": "4",
+    "Region": "America",
+    "Vehicle": "Exige",
+    "Quantity": 3
+  },
+  {
+    "Year": 2017,
+    "QTR": "4",
+    "Region": "Asia",
+    "Vehicle": "Elise",
+    "Quantity": 52
+  },
+  {
+    "Year": 2017,
+    "QTR": "4",
+    "Region": "Asia",
+    "Vehicle": "Evora",
+    "Quantity": 95
+  },
+  {
+    "Year": 2017,
+    "QTR": "4",
+    "Region": "Asia",
+    "Vehicle": "Exige",
+    "Quantity": 92
+  },
+  {
+    "Year": 2017,
+    "QTR": "4",
+    "Region": "Europe",
+    "Vehicle": "Elise",
+    "Quantity": 72
+  },
+  {
+    "Year": 2017,
+    "QTR": "4",
+    "Region": "Europe",
+    "Vehicle": "Evora",
+    "Quantity": 23
+  },
+  {
+    "Year": 2017,
+    "QTR": "4",
+    "Region": "Europe",
+    "Vehicle": "Exige",
+    "Quantity": 29
+  },
+  {
+    "Year": 2018,
+    "QTR": "1",
+    "Region": "America",
+    "Vehicle": "Elise",
+    "Quantity": 9
+  },
+  {
+    "Year": 2018,
+    "QTR": "1",
+    "Region": "America",
+    "Vehicle": "Evora",
+    "Quantity": 6
+  },
+  {
+    "Year": 2018,
+    "QTR": "1",
+    "Region": "America",
+    "Vehicle": "Exige",
+    "Quantity": 4
+  },
+  {
+    "Year": 2018,
+    "QTR": "1",
+    "Region": "Asia",
+    "Vehicle": "Elise",
+    "Quantity": 30
+  },
+  {
+    "Year": 2018,
+    "QTR": "1",
+    "Region": "Asia",
+    "Vehicle": "Evora",
+    "Quantity": 82
+  },
+  {
+    "Year": 2018,
+    "QTR": "1",
+    "Region": "Asia",
+    "Vehicle": "Exige",
+    "Quantity": 105
+  },
+  {
+    "Year": 2018,
+    "QTR": "1",
+    "Region": "Europe",
+    "Vehicle": "Elise",
+    "Quantity": 88
+  },
+  {
+    "Year": 2018,
+    "QTR": "1",
+    "Region": "Europe",
+    "Vehicle": "Evora",
+    "Quantity": 9
+  },
+  {
+    "Year": 2018,
+    "QTR": "1",
+    "Region": "Europe",
+    "Vehicle": "Exige",
+    "Quantity": 35
+  },
+  {
+    "Year": 2018,
+    "QTR": "2",
+    "Region": "America",
+    "Vehicle": "Elise",
+    "Quantity": 17
+  },
+  {
+    "Year": 2018,
+    "QTR": "2",
+    "Region": "America",
+    "Vehicle": "Evora",
+    "Quantity": 11
+  },
+  {
+    "Year": 2018,
+    "QTR": "2",
+    "Region": "America",
+    "Vehicle": "Exige",
+    "Quantity": 5
+  },
+  {
+    "Year": 2018,
+    "QTR": "2",
+    "Region": "Asia",
+    "Vehicle": "Elise",
+    "Quantity": 27
+  },
+  {
+    "Year": 2018,
+    "QTR": "2",
+    "Region": "Asia",
+    "Vehicle": "Evora",
+    "Quantity": 89
+  },
+  {
+    "Year": 2018,
+    "QTR": "2",
+    "Region": "Asia",
+    "Vehicle": "Exige",
+    "Quantity": 100
+  },
+  {
+    "Year": 2018,
+    "QTR": "2",
+    "Region": "Europe",
+    "Vehicle": "Elise",
+    "Quantity": 82
+  },
+  {
+    "Year": 2018,
+    "QTR": "2",
+    "Region": "Europe",
+    "Vehicle": "Evora",
+    "Quantity": 7
+  },
+  {
+    "Year": 2018,
+    "QTR": "2",
+    "Region": "Europe",
+    "Vehicle": "Exige",
+    "Quantity": 52
+  },
+  {
+    "Year": 2018,
+    "QTR": "3",
+    "Region": "America",
+    "Vehicle": "Elise",
+    "Quantity": 23
+  },
+  {
+    "Year": 2018,
+    "QTR": "3",
+    "Region": "America",
+    "Vehicle": "Evora",
+    "Quantity": 11
+  },
+  {
+    "Year": 2018,
+    "QTR": "3",
+    "Region": "America",
+    "Vehicle": "Exige",
+    "Quantity": 2
+  },
+  {
+    "Year": 2018,
+    "QTR": "3",
+    "Region": "Asia",
+    "Vehicle": "Elise",
+    "Quantity": 25
+  },
+  {
+    "Year": 2018,
+    "QTR": "3",
+    "Region": "Asia",
+    "Vehicle": "Evora",
+    "Quantity": 67
+  },
+  {
+    "Year": 2018,
+    "QTR": "3",
+    "Region": "Asia",
+    "Vehicle": "Exige",
+    "Quantity": 123
+  },
+  {
+    "Year": 2018,
+    "QTR": "3",
+    "Region": "Europe",
+    "Vehicle": "Elise",
+    "Quantity": 123
+  },
+  {
+    "Year": 2018,
+    "QTR": "3",
+    "Region": "Europe",
+    "Vehicle": "Evora",
+    "Quantity": 13
+  },
+  {
+    "Year": 2018,
+    "QTR": "3",
+    "Region": "Europe",
+    "Vehicle": "Exige",
+    "Quantity": 63
+  },
+  {
+    "Year": 2018,
+    "QTR": "4",
+    "Region": "America",
+    "Vehicle": "Elise",
+    "Quantity": 5
+  },
+  {
+    "Year": 2018,
+    "QTR": "4",
+    "Region": "America",
+    "Vehicle": "Evora",
+    "Quantity": 3
+  },
+  {
+    "Year": 2018,
+    "QTR": "4",
+    "Region": "America",
+    "Vehicle": "Exige",
+    "Quantity": 7
+  },
+  {
+    "Year": 2018,
+    "QTR": "4",
+    "Region": "Asia",
+    "Vehicle": "Elise",
+    "Quantity": 32
+  },
+  {
+    "Year": 2018,
+    "QTR": "4",
+    "Region": "Asia",
+    "Vehicle": "Evora",
+    "Quantity": 53
+  },
+  {
+    "Year": 2018,
+    "QTR": "4",
+    "Region": "Asia",
+    "Vehicle": "Exige",
+    "Quantity": 117
+  },
+  {
+    "Year": 2018,
+    "QTR": "4",
+    "Region": "Europe",
+    "Vehicle": "Elise",
+    "Quantity": 105
+  },
+  {
+    "Year": 2018,
+    "QTR": "4",
+    "Region": "Europe",
+    "Vehicle": "Evora",
+    "Quantity": 5
+  },
+  {
+    "Year": 2018,
+    "QTR": "4",
+    "Region": "Europe",
+    "Vehicle": "Exige",
+    "Quantity": 48
+  }
+]
